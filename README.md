@@ -2,10 +2,10 @@
  automation api falabella
  
  Software Requeridos:
- IntelliJ IDEA (Community Edition)
- Apache maven(3.8.2)
- Git
- Java JDK (1.8)
+ 1. IntelliJ IDEA (Community Edition)
+ 2. Apache maven(3.8.2)
+ 3. Git
+ 4. Java JDK (1.8)
  
  
  
