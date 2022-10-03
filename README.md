@@ -1,6 +1,14 @@
 # ApiAutomationFalabella
  automation api falabella
  
+ Software Requeridos:
+ IntelliJ IDEA (Community Edition)
+ Apache maven(3.8.2)
+ Git
+ Java JDK (1.8)
+ 
+ 
+ 
  Instructivo:
  
  1.Clonar proyecto desde el repositorio:
